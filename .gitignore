@@ -1,0 +1,17 @@
+# Environnements virtuels
+venv/
+venv_clean311/
+venv_tf310/
+venv_tf37/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers de données temporaires
+uploads/
+*.h5
+*.caffemodel
+*.dat
